@@ -1,0 +1,25 @@
+#play{
+  width: 53px;
+  height: 53px;
+  background-image: url(./play.png);
+  border-radius: 5px;
+  margin-left: 20px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+#play.pause{
+  background-image: url(./pause.png);
+}
+
+#clock{
+  /*width: 53px;*/
+  /*height: 53px;*/
+  /*border-radius: 5px;*/
+  /*margin-left: 20px;*/
+  display: inline-block;
+}
+
+#detail{
+  display: inline-block;
+}
